@@ -35,8 +35,8 @@ klik OK pada jendela Environment Variables.
 klik OK pada jendela System Properties.
 dan close Control Panel
 
-
 -Lanjut Buka lagi : cmd/Command Prompt dan ketik lagi "python" tanpa tanda petik
+
 -Lanjut coba ketik "import this" <<< tanpa tanda petik
  
 Maka PC kamu sudah siap untuk python pada windows 7.
