@@ -16,12 +16,18 @@ biasanya python belum dikenali (not recognized) karena path nya tidak ketemu/dik
 Pengaturan Environment Variables.
 -Masuk ke system pada Control Panel
 Control Panel\System and Security\System
+
 -Kemudian klik   "Advanced system settings"
+
 -Lanjut klik "Environment Variables" maka akan muncul lagi pop up "Environment Variables"
+
 -Pada bagian System variables, scroll sampai ketemu Path. (Path adalah nama Variable)
+
 -Seleksi/klik Path dan kemudian klik Edit
+
 -Maka akan muncul lagi pop up "Edit System variable"
 sebelum mengedit Variable value bikin dulu backup untuk mencegah hal2 yang diluar dugaan ,buka notepad copas semua Variable value.
+
 -Pada bagian paling kanan/ujung "Variable value"
 tambahkan path  ";C:\Python34\"  tanpa tanda petik
 dan klik OK pada jendela Edit System variable.
